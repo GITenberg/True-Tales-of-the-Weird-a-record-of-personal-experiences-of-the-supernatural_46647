@@ -1,15 +1,16 @@
 _repo: True-Tales-of-the-Weird-a-record-of-personal-experiences-of-the-supernatural_46647
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46647/46647-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46647-h/images/cover.jpg
 creator:
   author:
     agent_name: Dickinson, Sidney
     gutenberg_agent_id: '43890'
     url: http://www.gutenberg.org/2009/agents/43890
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46647#True-Tales-of-the-Weird-a-record-of-personal-experiences-of-the-supernatural
 gutenberg_issued: '2014-08-21'
 gutenberg_type: Text
 identifiers:
